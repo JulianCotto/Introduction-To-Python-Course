@@ -1,0 +1,23 @@
+Objectives
+
+1. Write a basic Python program
+2. Write a Python program using built-in data types
+3. Write a testable Python rogram using the Python unit test framework
+4. Use GitHub Cloud to store homework assignments
+5. Readings
+6. Chapter 1 and 2
+7. Topics
+8. History of Python
+9. Introduction to Python
+    a. Core Language
+    b. Standard Library
+    c. Parts of a Python Program
+    d. Output and Input
+    e. Variables
+    f. Fundamental Data Types
+10. Introduction to Python IDLE
+11. Testing with Unit Tests
+12. Introduction to Functions
+    a. void function (does not return a value)
+    b. value-return function
+13. Python Unit Test Framework   
